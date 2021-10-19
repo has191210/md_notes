@@ -88,7 +88,7 @@
 > B: I think the boss will be angry if yo don't `make an appearance`.
 
 > A: I really can't. It will `ruin` all my plan for Thursday.  
-> B: I am warning you. He gets `angry` easily these days.
+> B: I am warning you. He gets `angry` easily these days.  
 
 > A: why is that?  
 > B: I think it has to do with the company being `bought`.
@@ -116,16 +116,16 @@
 > B: Have you `restarted` it?
 
 > A: Yes, but that hasn't `solved` the problem.  
-> B: Sorry to mentions this, but isn't it time you had a new computer.?
+> B: Sorry to mentions this, but isn't it time you had a new computer.?  
 
-> A: Not really. I have `taken care` of this one so well.
-> B: Well, it has been `functioning erratically` lately.
+> A: Not really. I have `taken care` of this one so well.  
+> B: Well, it has been `functioning erratically` lately.  
 
-> A：I know, but I can't bring myself to `get rid of` it
-> B: But having it fixed may transpire to be a waste of money.
+> A：I know, but I can't bring myself to `get rid of` it  
+> B: But having it fixed may transpire to be a waste of money.  
 
-> A: I have to `agree` with you there
-> B: Why don't you discover what's worng with first?
+> A: I have to `agree` with you there.  
+> B: Why don't you discover what's worng with first?  
 
 > A: OK, I'll `ask` someone `to come here` and have a look at it.
 
@@ -142,7 +142,7 @@
 10. Tha painting _ _ to be a fake.
 
 ## Lesson 5 - Dialogue
-> A: Are you going to go and get your son after school?
+> A: Are you going to go and get your son after school?  
 > B: Yes, I am.
 
 > A: Could you `give` me a `lift` to the train statione on your way please?
@@ -157,9 +157,32 @@
 > A: No, I should actually `go slower`.
 > B: why is that?
 
-> A: They're getting strict with people who break the speed limit.
+> A: They're `getting strict` with people who break the speed limit.
 > B: I see.
 
-> A: And, I haven't got much petrol left.
+> A: And, I `haven't got much` petrol `left`.
+> B: Do you mean you have to but petrol at the next station?
 
+> A: I'm afraid so. But don't worry. I'll get you to the station in time.
+
+## Lesson 5 - Exercises
+1. Could you _ _ my sister at the station and bring her home please?  
+2. Is there any sugar left? No, we've completely _ _ _ sugar.  
+3. What time will we get to the airport if we _ now.  
+4. We are extremely late. Please _ _.
+5. Where do you usually but petrol ? I always _ _ at a motorway stop.
+6. You are speaking too fast. Please _ _.
+7. The police are _ _ youth gangs.
+8. I'm sorry I'm late. I was _ _ in a traffic jam.
+9. He _ _ the children at school on his way to work every morning.
+10. This is too slow. We must _ _ the process.
+
+## Lesson 6 - Dialogue
+> A: Could we review these figures please?  
+> B: Sure. Do you want to know how I have calculated them?  
+
+> A: Yes, I can't quite understand how you have produced them?  
+> B: Why don't we arrange a meeting so I can explain the calculations?  
+
+> A: 
 
