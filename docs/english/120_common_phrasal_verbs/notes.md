@@ -111,5 +111,55 @@
 9. She is the nervous type. She gets _ _ very easily.
 10. He should have arrived by now. I wonder why he hasn't _ _ yet.
 
+## Lesson 4 - Dialogue
+> A: My computer has `stopped working` again.  
+> B: Have you `restarted` it?
+
+> A: Yes, but that hasn't `solved` the problem.  
+> B: Sorry to mentions this, but isn't it time you had a new computer.?
+
+> A: Not really. I have `taken care` of this one so well.
+> B: Well, it has been `functioning erratically` lately.
+
+> A：I know, but I can't bring myself to `get rid of` it
+> B: But having it fixed may transpire to be a waste of money.
+
+> A: I have to `agree` with you there
+> B: Why don't you discover what's worng with first?
+
+> A: OK, I'll `ask` someone `to come here` and have a look at it.
+
+## Lesson 4 - Exercises
+1. He never disagress with him. He _ with everything he says.
+2. I am going to _ all my broken phones.
+3. Is there still a problem with your room? No, it has all been _ _.
+4. This is a sensitive device. You must _ _ it carefully.
+5. No-one knows about this, and I hope they'll never _ _.
+6. My printer is really old and it has started _ _.
+7. Could you please _ _ all the lights before you leave?
+8. If the bus hadn't _ _, we'd have been here much earlier.
+9. He is going to _ _ this subject at the next meeting.
+10. Tha painting _ _ to be a fake.
+
+## Lesson 5 - Dialogue
+> A: Are you going to go and get your son after school?
+> B: Yes, I am.
+
+> A: Could you `give` me a `lift` to the train statione on your way please?
+> B: Sure, If we `leave` for the station now, you will be there at 3:00.
+
+> A: Oh, my train as at 3:10. We'd better `do this quickly`.
+> B: I hope we won't get `stuck` in traffic.
+
+> Now on the road....
+
+> A: Do you think you could `go` a liiter `faster`?
+> A: No, I should actually `go slower`.
+> B: why is that?
+
+> A: They're getting strict with people who break the speed limit.
+> B: I see.
+
+> A: And, I haven't got much petrol left.
 
 
