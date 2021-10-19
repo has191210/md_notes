@@ -178,11 +178,195 @@
 10. This is too slow. We must _ _ the process.
 
 ## Lesson 6 - Dialogue
-> A: Could we review these figures please?  
-> B: Sure. Do you want to know how I have calculated them?  
+> A: Could we `review` these figures please?  
+> B: Sure. Do you want to know how I have `calculated` them?  
 
-> A: Yes, I can't quite understand how you have produced them?  
-> B: Why don't we arrange a meeting so I can explain the calculations?  
+> A: Yes, I can't quite `understand` how you have `produced` them?  
+> B: Why don't we `arrange` a meeting so I can `explain` the calculations?  
 
-> A: 
+> A: Yes, that would be good. How about tomorrow afternoon?  
+> B: I'm  afraid I have a `full schedule` tomorrow afternoon.
+
+> A: Can you `make some time for me` tomorrow morning?  
+> B: Yes that should be fine. By the way, have you `handled` that staff complaint yet?
+> B: Yes, I have already `done something` about it.
+
+## Lesson 6 - Exercises
+1. Is she handling the enquiries? yes, she is _ _ them.
+2. Can you do something about this request? Yes, I'll _ _ it.
+3. I need to see you. When can you _ _ please?
+4. We have to _ _ a new price for this item?
+5. I can't _ how you have reached this conclusion.
+6. Would you like to _ an appointment for you?
+7. I am lost. can someone _ these figures please?
+8. Can we meet tomorrow ? No, I'm afraid I'm _ _ the whole day.
+9. I suggest we _ _ our offer one more time.
+10. Fiona has _ _ a brilliant proposal.
+
+## Lesson 7 - Dialogue
+> A: I would like to `enrol` on your yoga course.  
+> B: Have you practised yoga before?
+
+> A: Yes, I `started` yoga about 10 years ago.  
+>    Lately however, I've `lost the habit` of practising it regularly. 
+
+> B: And you would like to `start doing it again`, right?
+> A: That's right.
+
+> B: May I ask how you've heard about us?  
+> A: I `accidentally saw` your advertisement in a magazine.
+
+> B: Would you also like to `exercise` in the gym?
+> A: Yes, I might.
+
+> B: Very good. Would you mind `completing` this health questionnaire please?  
+> A: The print is rather small. I need to `wear` my reading glasses.  
+     Oh, I don't seem to have them on me.
+	 
+> B: Would you like me to `enlarge` the form on the photocopier?  
+> A No, that won't be necessary.
+
+> I will `pay you a short visit` tomorrow and submit the completed form.
+
+## Lesson 7 - Exercises
+1. I am putting on weight. I should _ _ some form of exercise.
+2. Do you think we can _ this photograph and hang it on the wall?
+3. What is the deadline for _ the questionnaire?
+4. We'd love to see you tomorrow. Just _ any time you want.
+5. I _ this really interesting artile last night.
+6. He can't _ the habit of biting his nails.
+7. She _ three times a week at the local gym.
+8. I am going to _ _ singing lessons.
+9. Please _ the form using capital letters.
+10. He will say yes if you can _ a nice smile.
+
+## Lesson 8 - Dialogue
+>A: What `is keeping you busy` these days?
+>B: I am `perfecting` my French.
+
+>A: Is that because you `are leaving` for France soon?
+>B: No, it's because some French people `now live` next door.
+
+>A: Do you `have a good relationship` with them?
+>B: Yes, their son seems to quite `like` me.
+
+>A: Your're not `charming him with words`, are you?
+>B: No, of course not. I haven't `ended my relationship` with Tim yet.
+
+>A: Oh, that's right. Are you still `considering` leaving him?
+>B: Yes, But I haven't `made a decision` yet.
+
+## Lesson 8 - Exercises
+1. He is a very likable person. People _ him very easily. 
+2. Julia is such a charmer. She is really good at _ boys.
+3. I like Social Sciences. I am currently _ on Sociology.
+4. I can't _ my mind whether to take the train or the bus.
+5. It's a shame their relationship didn't last. They _ last month.
+6. Have you been busy lately? Tell me what you have _ .
+7. Where are you going? I _ to the cinema.
+8. Unfortunately, I don't _ with my direct boss.
+9. When did your new neighbours _ ?
+10. We have been _ selling our house.
+
+## Lesson 9 - Dialogue 1
+>A: One of my pupils has started `misbehaving`. 
+>B: How is he or she acting up?
+
+>A: He is `disruptive` in class.
+>B: What do you think has caused this?
+
+>A: I am not sure. I think his parents are getting divorced.
+>B: That might explain it. However, I must `mention` that divorce is not always the cause of disruptive behaviour.
+
+>A: I `agree` with you. Also, I can see that her parents have `raised` him well. 
+>B: Maybe she has `met and joined` a bad crowd at school.
+
+>A: Yes, that seems like a more plausible explanation.
+>B: So, how are you going to handle this?
+
+>A: I think I should `investigate` what exactly is causing his behaviour first.
+
+## Lesson 9 - Dialogue 2
+>A: Would you like to `wear` this coat `to see if it fits` you?
+>B: I can't `wear` it over my jumper.
+
+>A: Why don't you `remove` your jumper.
+>B: I am not really `searching` for a coat.
+
+>A: Look. They've `reduced` its `price` by $50. It's a bargain.
+>B: I'm sure we'll find a cheaper one if we `look in other shops`.
+    Besides, it is too showy. My friends will think I am `displaying my wealth`.
+
+>A: Oh, stop `inventing` excuses. Just try it on. 
+>B: O.K. then, but not brown. It doesn't `match` my other clothes.
+
+>A: Fair enough. You can `choose` a different color.
+
+
+## Lesson 9 - Exercises
+1. The police are _ the cause of the accident.
+2. I am sorry! there is no way I can _ with this proposal.
+3. If I may, I would like to _ some of my concerns.
+4. What do you think has _ her new attitude?
+5. Don't believe everything he says. He likes to _ stories.
+6. It is best to _ the suit before you but it.
+7. Please _ your shoes before coming into the house.
+8. I never buy the first thing I find. I always _ for bargains.
+9. He really likes to _ his new car.
+10. Please stop _ we have work to do.
+
+## Lesson 10 - Dialogue 1
+>A: I'd like to `leave the hotel` please.
+>B: How would you like to `pay the bill`?
+
+>A: By credit card please. Where can I `enter` the airport shuttle bus?
+>B: Just outside the hotel, and you `leave` the bus right outside the departure gate. 
+
+>A: Not until 8:00 p.m. I don't know what to do with my luggage until then.
+>B: You could leave it here at reception, and I could `register` you `on the flight` online. Then you won't be `delayed` by the queues.
+
+>A: That would be a great help. You are very good at `finding` solutions.
+>B: Just doing my job, sir.
+
+>A: Thank you. By the way, would you be able to `find` a telephone number `in the directory` for me?
+>B: Sure. I will `handle` that as soon as I have checked you in. 
+
+## Lesson 10 - Dialogue 2
+>A: I `met` your mum `by chance` the other day.
+>B: How did you recognise her?
+
+>A: You `resemble` her..
+>B: Yes, everyone says so.
+
+>A: She looked a bit `exhausted`. Is she o.k.?
+>B: Not really. She is `recovering` from a bad cold.
+
+>A: You don't look well yourself.
+>B: I know. I think I am `catching` a cold too.
+
+>A: Then you should `wear warm clothes` when you come out.
+>B: Yes, I will next time.
+
+>A: Your mum said her aunt had `died` unexpectedly.
+>B: Yes, that was a big shock. My mum `fainted` when she heard the news.
+
+>A: How awful! Did she `regain consciousness` quickly?
+>B: Yes, she did, but is not `excited about` going to the funeral at all.
+
+## Lesson 10 - Exercises
+1. It is uncanny how much he _ his father.
+2. I am really _ seeing my cousin again.
+3. I don't feel well. I must be _ the flu.
+4. The old man _ peacefully in his sleep.
+5. I have absolutely no energy. I don't know why I feel so _.
+6. I almost _ when the ball hit my head.
+7. They are still _ the shock of the bad news.
+8. It was a difficult text. I had to _ several words in the dictionary.
+9. I'm sure he'll be able to _ a solution.
+10. We were _ by an accident on the motorway.
+
+
+
+
+
 
