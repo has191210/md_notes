@@ -9,5 +9,7 @@
   
 * **EDB-EnterpriseDB**
   * [EDB-Cluster-Installation](edb/edb_note.md)
+* **PostgreSQL**
+  * [PostgreSQL](PostgreSQL/pg-1.md)
 * **技术博客**
  * [Github+docsify零成本轻松打造在线文档网站](zh-cn/技术博客/Github+docsify零成本轻松打造在线文档.md)
